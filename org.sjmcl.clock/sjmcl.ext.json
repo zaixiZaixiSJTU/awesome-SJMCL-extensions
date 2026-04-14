@@ -1,0 +1,9 @@
+{
+  "identifier": "org.sjmcl.clock",
+  "name": "Clock",
+  "description": "A simple live clock for launch dock testing.",
+  "frontend": {
+    "entry": "frontend/index.js"
+  },
+  "minimalLauncherVersion": "0.8.0"
+}
