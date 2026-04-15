@@ -1,132 +1,65 @@
 ﻿<div align="center">
-<img src="banner.png" alt="SJMCL" />
 
-# SJMCL-extensions 索引库
-### SJMCL 官方扩展索引
+# awesome-SJMCL-extensions
 
-[![SJMCL 主仓库](https://img.shields.io/badge/SJMCL-Main%20Repo-111827?style=for-the-badge&logo=github)](https://github.com/UNIkeEN/SJMCL)
-[![SJMC 官方网站](https://img.shields.io/badge/SJMC-Official%20Website-0ea5e9?style=for-the-badge)](https://mc.sjtu.cn/)
-[![Ask DeepWiki](https://img.shields.io/badge/Ask-DeepWiki-20B2AA?style=for-the-badge)](https://deepwiki.com/UNIkeEN/SJMCL)
-[![Stars](https://img.shields.io/github/stars/SJMC-Dev/awesome-SJMCL-extensions?style=for-the-badge&logo=github)](https://github.com/SJMC-Dev/awesome-SJMCL-extensions)
-[![License](https://img.shields.io/badge/license-MIT-2ea043?style=for-the-badge)](LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=for-the-badge)](CONTRIBUTING.md)
-[![Extension Count](https://img.shields.io/badge/plugins-1-ff8c00?style=for-the-badge)](#-插件目录)
+SJMCL 生态扩展的社区精选列表。
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Stars](https://img.shields.io/github/stars/SJMC-Dev/awesome-SJMCL-extensions?style=flat-square)](https://github.com/SJMC-Dev/awesome-SJMCL-extensions)
+[![License](https://img.shields.io/badge/license-MIT-2ea043?style=flat-square)](LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](CONTRIBUTING.md)
 
 **[English](README.en.md) · 简体中文 · [繁體中文](README.zh-Hans.md)**
 
 </div>
 
+
 ---
 
-## 项目介绍
-
-> 本仓库是 SJMCL Extension 官方插件索引库，采用纯索引模式。  
-> 不托管插件完整源码，只维护插件入口、能力说明和推荐清单。
-
-我们希望通过统一、可检索、可审查的索引页面，让开发者和用户可以更快找到合适的插件。
-
-### 核心原则
-
-- 索引优先：每个插件只保留说明文档入口
-- 源码外置：插件源码由作者在独立仓库维护
-- 可审查：收录信息结构化、可验证、可持续维护
+[SJMCL](https://github.com/UNIkeEN/SJMCL) 是一款面向 SJTU Minecraft Club 社区的 Minecraft 启动器。本仓库收录社区维护的 SJMCL 扩展，涵盖功能集成、界面增强、生产力工具等各类插件。欢迎通过 PR 添加你的项目，提交前请先阅读 [CONTRIBUTING.md](CONTRIBUTING.md)。
 
 ---
 
 ## 目录
 
-- [什么是 SJMCL-extensions？](#什么是-sjmcl-extensions)
-- [插件目录](#插件目录)
-- [集成类 / Integrations](#集成类--integrations)
-- [UI & 界面增强 / UI Enhancements](#ui--界面增强--ui-enhancements)
-- [生产力工具 / Productivity Tools](#生产力工具--productivity-tools)
-- [AI & 大模型相关 / AI & LLM](#ai--大模型相关--ai--llm)
-- [其他 / Others](#其他--others)
-- [快速开始](#快速开始)
-- [贡献](#贡献)
-- [License](#license)
+- [集成](#集成)
+- [界面增强](#界面增强)
+- [生产力工具](#生产力工具)
+- [AI 与大模型](#ai-与大模型)
+- [其他](#其他)
 
 ---
 
-## 什么是 SJMCL-extensions？
+## 集成
 
-SJMCL-extensions 是面向 SJMCL 生态的扩展索引。一个标准条目通常具备：
+- **[Clock](plugins/org.sjmcl.clock/)** — 在启动器界面展示实时时钟的简单示例扩展。
 
-- 元信息清单（标识符、名称、版本兼容性）
-- 前端入口或功能入口
-- 面向用户的功能说明与使用文档
+## 界面增强
 
-本仓库只收录索引文档层，不直接承载插件完整实现代码。
+_暂无收录，欢迎提交。_
 
----
+## 生产力工具
 
-## 插件清单与打包格式
+_暂无收录，欢迎提交。_
 
-请查看 [CONTRIBUTING.md](CONTRIBUTING.md) 中的以下章节：
+## AI 与大模型
 
-- 插件清单与打包格式示例
-- 清单文件（sjmcl.ext.json）关键字段
-- 前端入口（frontend/index.js）示例特征
+_暂无收录，欢迎提交。_
 
----
+## 其他
 
-## 插件目录
-
-### 集成类 / Integrations
-
-- [Clock](plugins/org.sjmcl.clock/) - 最简时钟插件索引示例，展示清单字段与前端入口约定。作者：[SJMCL](https://github.com/SJMCL)。仓库：本仓库示例（非独立源仓库）。Stars：1。
-
-### UI & 界面增强 / UI Enhancements
-
-- 暂无收录，欢迎提交。
-
-
-### 生产力工具 / Productivity Tools
-
-- 暂无收录，欢迎提交。
-
-### AI & 大模型相关 / AI & LLM
-
-- 暂无收录，欢迎提交。
-
-### 其他 / Others
-
-- 暂无收录，欢迎提交。
-
----
-
-## 快速开始
-
-1. 浏览上方分类列表，选择插件
-2. 进入对应插件索引页（plugins/xxx/）阅读详细说明
-3. 跳转到插件源仓库，按插件作者文档安装与配置
+_暂无收录，欢迎提交。_
 
 ---
 
 ## 贡献
 
-请先阅读 [CONTRIBUTING.md](CONTRIBUTING.md) 并按模板提交：
-
-1. Fork 仓库并创建分支
-2. 新建 plugins/your-plugin-name/README.md
-3. 在本页对应分类添加插件条目
-4. 发起 PR
-
-插件页模板可参考：
-
-- [plugins/org.sjmcl.clock/README.md](plugins/org.sjmcl.clock/README.md)
-
----
-
-## License
-
-本索引仓库采用 [MIT License](LICENSE)。  
-各插件的开源协议以其源仓库声明为准。
+提交 PR 前请阅读 [CONTRIBUTING.md](CONTRIBUTING.md)。
 
 ---
 
 <div align="center">
 
-Made by SJMCL Team
+由 SJMCL 社区维护
 
 </div>

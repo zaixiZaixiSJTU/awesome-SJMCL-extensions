@@ -1,130 +1,67 @@
 ﻿<div align="center">
-<img src="banner.png" alt="SJMCL" />
 
-# SJMCL-extensions Index
-### Official Extension Index Repository for SJMCL
+# awesome-SJMCL-extensions
 
-[![SJMCL Main Repo](https://img.shields.io/badge/SJMCL-Main%20Repo-111827?style=for-the-badge&logo=github)](https://github.com/UNIkeEN/SJMCL)
-[![SJMC Website](https://img.shields.io/badge/SJMC-Official%20Website-0ea5e9?style=for-the-badge)](https://mc.sjtu.cn/en/)
-[![Ask DeepWiki](https://img.shields.io/badge/Ask-DeepWiki-20B2AA?style=for-the-badge)](https://deepwiki.com/UNIkeEN/SJMCL)
-[![Stars](https://img.shields.io/github/stars/SJMC-Dev/awesome-SJMCL-extensions?style=for-the-badge&logo=github)](https://github.com/SJMC-Dev/awesome-SJMCL-extensions)
-[![License](https://img.shields.io/badge/license-MIT-2ea043?style=for-the-badge)](LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=for-the-badge)](CONTRIBUTING.en.md)
-[![Plugin Count](https://img.shields.io/badge/plugins-1-ff8c00?style=for-the-badge)](#-plugin-directory)
+A curated list of community extensions for the SJMCL ecosystem.
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Stars](https://img.shields.io/github/stars/SJMC-Dev/awesome-SJMCL-extensions?style=flat-square)](https://github.com/SJMC-Dev/awesome-SJMCL-extensions)
+[![License](https://img.shields.io/badge/license-MIT-2ea043?style=flat-square)](LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](CONTRIBUTING.en.md)
 
 **English · [简体中文](README.md) · [繁體中文](README.zh-Hans.md)**
 
 </div>
 
----
-
-## About This Repository
-
-> This is the official plugin index for SJMCL Extension in index-only mode.  
-> We do not host full plugin source code here, only plugin entries, descriptions, and recommendations.
-
-This repository provides a unified, searchable, and review-friendly index so users can quickly find the right extensions.
-
-### Core Principles
-
-- Index-first: each plugin entry contains documentation only
-- Source-outside: plugin source code stays in author-maintained repositories
-- Reviewable: all entries are structured and verifiable
 
 ---
 
-## Contents
+[SJMCL](https://github.com/UNIkeEN/SJMCL) is a Minecraft launcher for the SJTU Minecraft Club community. This repository is a community-curated index of SJMCL extensions, covering integrations, UI enhancements, productivity tools, and more.
 
-- [What Is SJMCL-extensions?](#what-is-sjmcl-extensions)
-- [Plugin Directory](#plugin-directory)
+Contributions are welcome. Please read [CONTRIBUTING.en.md](CONTRIBUTING.en.md) before submitting a PR.
+
+---
+
+## Table of Contents
+
 - [Integrations](#integrations)
 - [UI Enhancements](#ui-enhancements)
 - [Productivity Tools](#productivity-tools)
 - [AI & LLM](#ai--llm)
 - [Others](#others)
-- [Getting Started](#getting-started)
-- [Contributing](#contributing)
-- [License](#license)
 
 ---
 
-## What Is SJMCL-extensions?
+## Integrations
 
-SJMCL-extensions is the extension index for the SJMCL ecosystem. A standard entry commonly includes:
+- **[Clock](plugins/org.sjmcl.clock/)** — A minimal extension that displays a live clock in the launcher UI.
 
-- a manifest file (identifier, name, compatibility)
-- a frontend or functional entry
-- user-facing documentation and usage guidance
+## UI Enhancements
 
-This repository only stores the index/documentation layer, not full implementation code.
+_Nothing here yet. Submit yours!_
 
----
+## Productivity Tools
 
-## Plugin Manifest and Packaging Format
+_Nothing here yet. Submit yours!_
 
-Please read [CONTRIBUTING.en.md](CONTRIBUTING.en.md), under:
+## AI & LLM
 
-- Plugin Manifest and Packaging Example
-- Key Fields in Manifest (sjmcl.ext.json)
-- frontend/index.js Characteristics
+_Nothing here yet. Submit yours!_
 
----
+## Others
 
-## Plugin Directory
-
-### Integrations
-
-- [Clock](plugins/org.sjmcl.clock/) - Minimal clock plugin index sample showing manifest and frontend entry conventions. Author: [SJMCL](https://github.com/SJMCL). Repository: in-repo sample (no external source repo). Stars: 1.
-
-### UI Enhancements
-
-- No entries yet. PRs welcome.
-
-### Productivity Tools
-
-- No entries yet. PRs welcome.
-
-### AI & LLM
-
-- No entries yet. PRs welcome.
-
-### Others
-
-- No entries yet. PRs welcome.
-
----
-
-## Getting Started
-
-1. Browse plugin categories above
-2. Open a plugin index page under plugins/xxx/
-3. Go to the plugin source repository and follow its own install guide
+_Nothing here yet. Submit yours!_
 
 ---
 
 ## Contributing
 
-Please read [CONTRIBUTING.en.md](CONTRIBUTING.en.md) before opening a PR:
-
-1. Fork and create a feature branch
-2. Add plugins/your-plugin-name/README.md
-3. Add one entry row in the correct category table
-4. Open a PR 
-Reference template:
-
-- [plugins/org.sjmcl.clock/README.md](plugins/org.sjmcl.clock/README.md)
-
----
-
-## License
-
-This index repository is licensed under [MIT License](LICENSE).  
-Each plugin license is defined by its source repository.
+Please read [CONTRIBUTING.en.md](CONTRIBUTING.en.md) before opening a PR.
 
 ---
 
 <div align="center">
 
-Made by SJMCL Team
+Maintained by the SJMCL community
 
 </div>
